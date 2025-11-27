@@ -47,3 +47,6 @@ helm template myapp ./mychart
 
 5. Xem release
 helm list --all-namespaces
+
+## Custom Resource Definitions
+This is a YAML file  has kind CustomResourceDefinition
